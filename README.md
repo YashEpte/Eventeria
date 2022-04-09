@@ -21,7 +21,14 @@ A cross-platform app where the user and organizers interact with each other. The
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 **<div id="installation">4) INSTALLATION**
+ 
+  **-Flutter :** Flutter is an open-source UI software development kit It is used to develop cross platform applications for Android, iOS, Linux, macOS, Windows, Google Fuchsia, and the web from a single codebase. 
+ 
+  **$ sudo snap install flutter **
 
+  **-Unity :** Unity is a cross-platform game engine developed by Unity Technologies, which is primarily used to develop video games and simulations for computers, consoles and mobile devices.
+  
+  
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
