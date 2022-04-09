@@ -17,9 +17,7 @@ ________________________________________________________________________________
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 <h4><div id="idea"> 1) THE IDEA</h4> 
-Everyone attends some or the other kind of events but you have noticed that's its not possible to manage everything, there is always an error and thats where eventeria comes in. It helps you to organize the events and send your attender the needed information in single place. 
-Eventeria gives you the customizable template in which you can add Events, sub-events and sections. It also helps in registration and payment. 
-
+A cross-platform app where the user and organizers interact with each other. The organizers can create events,sub-events, it's details and publish it on our app. Users can register itself in the event and a QR will be generated, which can be scanned at the venue and verified by the organizers on the day of event.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 **<div id="installation">4) INSTALLATION**
