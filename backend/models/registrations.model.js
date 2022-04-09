@@ -1,11 +1,6 @@
 const mongoose = require('mongoose');
 
 const RegistrationSchema = mongoose.Schema({
-  qrCodeId: {
-    type: String,
-    required: true,
-    unique: true,
-  },
   userId: {
     type: mongoose.Types.ObjectId,
     required: true,
@@ -14,6 +9,16 @@ const RegistrationSchema = mongoose.Schema({
   ticketCount: {
     type: Number,
     required: true,
+  },
+  eventId: {
+    type: mongoose.Types.ObjectId,
+    required: true,
+    ref: 'events',
+  },
+  qrCodeId: {
+    type: String,
+    required: true,
+    unique: true,
   },
 });
 
