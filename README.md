@@ -6,7 +6,7 @@ ________________________________________________________________________________
 
 **TABLE CONTENT**
 1) <a href="url">THE IDEA</a>
-2) <a href="url">INSTALATION</a>
+2) <a href="url">INSTALLATION</a>
 3) <a href="url">REQUIRMENTS</a>
 4) <a href="url">USAGE</a>
 5) <a href="url">SCREENSHOT</a>
@@ -16,7 +16,7 @@ ________________________________________________________________________________
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
-<h4>1) The IDEA</h4> 
+<h4>1) THE IDEA</h4> 
 Everyone attends some or the other kind of events but you have noticed that's its not possible to manage everything, there is always an error and thats where eventeria comes in. It helps you to organize the events and send your attender the needed information in single place. 
 Eventeria gives you the customizable template in which you can add Events, sub-events and sections. It also helps in registration and payment. 
 
