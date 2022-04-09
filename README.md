@@ -24,10 +24,18 @@ A cross-platform app where the user and organizers interact with each other. The
  
   **-Flutter :** Flutter is an open-source UI software development kit It is used to develop cross platform applications for Android, iOS, Linux, macOS, Windows, Google Fuchsia, and the web from a single codebase. 
  
-  **$ sudo snap install flutter **
+  $ sudo snap install flutter 
 
-  **-Unity :** Unity is a cross-platform game engine developed by Unity Technologies, which is primarily used to develop video games and simulations for computers, consoles and mobile devices.
-  
+  **-Unity :** Unity is a cross-platform game engine developed by Unity Technologies, which is primarily used to develop video games and simulations for computers, consoles and mobile devices.Unity's strong partnerships with the leading mobile platforms – including custom tools for iOS and Android – ensure you have access to cutting-edge solutions that power your success.
+ 
+  $ sudo apt-get install unityhub
+ 
+ **-NodeJS :** Node. js is primarily used for non-blocking, event-driven servers, due to its single-threaded nature. It's used for traditional web sites and back-end API services, but was designed with real-time, push-based architectures in mind.Express is a minimal and flexible Node.js web application framework that provides a robust set of features to develop web and mobile applications
+ 
+ pkg install node
+ 
+ **-MongoDB :** MongoDB is a document database used to build highly available and scalable internet applications. With its flexible schema approach, it's popular with development teams using agile methodologies.mongodb-net (MongoDB. Driver. dll) is a . Net driver for MongoDB. Initially ported from the Java Driver, it is now written entirely in C# and care has been to taken to leverage .
+ 
   
 
 
