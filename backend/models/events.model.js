@@ -17,6 +17,10 @@ const SubEventSchema = mongoose.Schema({
     type: Date,
     required: true,
   },
+  price: {
+    type: Number,
+    required: true,
+  },
   totalSeats: {
     type: Number,
     required: true,
@@ -36,10 +40,15 @@ const EventSchema = mongoose.Schema({
     type: String,
     required: true,
   },
+  isFeatured: {
+    type: Boolean,
+    default: false,
+  },
   banner: {
     type: String,
     required: true,
   },
+  categories: [String],
   subEvents: [SubEventSchema],
 });
 

@@ -10,5 +10,10 @@ router.post(
 );
 
 router.post('/verifyRegistrations', registrationController.verifyRegistrations);
+router.get(
+  '/getRegisteredEvents',
+  authMiddleware,
+  registrationController.getRegistedEvents
+);
 
 module.exports = router;
