@@ -11,6 +11,7 @@ ________________________________________________________________________________
 4) <a href="#usage">USAGE</a>
 5) <a href="#screenshot"> SCREENSHOT</a>
 6) <a href="#licence"> LICENCE</a>
+7) <a href="#author"> AUTHORS</a>
 
 __________________________________________________________________________________________________________________________________________________________
 
@@ -20,7 +21,7 @@ ________________________________________________________________________________
 A cross-platform app where the user and organizers interact with each other. The organizers can create events,sub-events, it's details and publish it on our app. Users can register itself in the event and a QR will be generated, which can be scanned at the venue and verified by the organizers on the day of event.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
-**<div id="installation">4) INSTALLATION**
+**<div id="installation">1) INSTALLATION**
  
   **-Flutter :** Flutter is an open-source UI software development kit It is used to develop cross platform applications for Android, iOS, Linux, macOS, Windows, Google Fuchsia, and the web from a single codebase. 
  
@@ -46,6 +47,9 @@ A cross-platform app where the user and organizers interact with each other. The
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 **<div id="usage">4) USAGE**
+ 
+ We can use eventeria for any type of Event. Whether it's college event, school event, flim festivals and other local level events
+ 
 
 
 
@@ -57,5 +61,18 @@ A cross-platform app where the user and organizers interact with each other. The
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 **<div id="licence">6) LICENCE**
+ 
+ This project is licensed under the MIT License - see the <a href="https://github.com/YashEpte/Eventeria/blob/main/LICENSE">LICENSE.md </a> file for details
 
+ ---------------------------------------------------------------------------------------------------------------------------------------------------------
+ **<div id="author">span style='font-size:100px;'>&#128187;7) AUTHORS**  <</span>
+
+   <ul>
+    <li><a href="https://github.com/Adarsh077">Adarsh Senghani </a></li>
+    <li><a href="https://github.com/KiraKami-dev">Akshat Khair</a></li>
+    <li><a href="https://github.com/gatishinde">Gati Shinde</a></li>
+    <li><a href="">Bhavin Divecha</a></li>
+    <li><a href="https://github.com/YashEpte">Yash Epte</a></li>
+    
+</ul> 
 
