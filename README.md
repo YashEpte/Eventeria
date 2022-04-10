@@ -60,12 +60,12 @@ A cross-platform app where the user and organizers interact with each other. The
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
-**<div id="licence">6) LICENCE**
+ **<div id="licence"><span style='font-size:100px;'>&#9989;6) LICENCE**</span>
  
  This project is licensed under the MIT License - see the <a href="https://github.com/YashEpte/Eventeria/blob/main/LICENSE">LICENSE.md </a> file for details
 
  ---------------------------------------------------------------------------------------------------------------------------------------------------------
- **<div id="author">span style='font-size:100px;'>&#128187;7) AUTHORS**  <</span>
+ **<div id="author"><span style='font-size:100px;'>&#128187;7) AUTHORS**  </span>
 
    <ul>
     <li><a href="https://github.com/Adarsh077">Adarsh Senghani </a></li>
