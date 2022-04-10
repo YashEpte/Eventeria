@@ -13,6 +13,7 @@ class TicketDetails extends StatefulWidget {
 
 class _TicketDetailsState extends State<TicketDetails> {
   Map<String, dynamic> registration = {};
+  bool isLoading = true;
 
   @override
   void initState() {
@@ -23,12 +24,15 @@ class _TicketDetailsState extends State<TicketDetails> {
 
   void getDetails() async {
     try {
+      setState(() {
+        isLoading = true;
+      });
       final args = ModalRoute.of(context)?.settings.arguments as Map<String, String?>;
     if(args['code'] != null) {
     final newReg = await getEventDetailsByCode(args['code']!);
     setState(() {
       registration = newReg;
-      
+      isLoading = false;
     });
     }
     } catch (e) {
@@ -41,7 +45,7 @@ class _TicketDetailsState extends State<TicketDetails> {
   Widget build(BuildContext context) {
   print(registration);
     return Scaffold(
-      body: Padding(
+      body: isLoading ? Center(child: CircularProgressIndicator(),) :Padding(
         padding: const EdgeInsets.all(18.0),
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
@@ -57,7 +61,7 @@ class _TicketDetailsState extends State<TicketDetails> {
                   if(registration["banner"] != null) Row(
                     mainAxisAlignment: MainAxisAlignment.center,
                     children: [
-                      Container(child: Image.network('https://83a9-2402-8100-300e-dc36-3a0d-f3a9-1c92-3ab2.ngrok.io/images/${registration["banner"]}', width: 100, height: 100), decoration: BoxDecoration(borderRadius: BorderRadius.all(Radius.circular(50)),), clipBehavior: Clip.hardEdge,)
+                      Container(child: Image.network('https://97fd-2402-8100-300c-8413-10cf-58bd-99b1-428a.ngrok.io/images/${registration["banner"]}', width: 100, height: 100), decoration: BoxDecoration(borderRadius: BorderRadius.all(Radius.circular(50)),), clipBehavior: Clip.hardEdge,)
                     ],
                   ),
                   SizedBox(height: 14),
