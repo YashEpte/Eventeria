@@ -1,5 +1,6 @@
 # <i><b>Eventeria</b></i>
- <span style="color: green"> "World of events </span>
+<i> "World of events "</i>
+
 ![17ffe0da-667e-4e80-bfb7-b4fd6f338522-removebg-preview](https://user-images.githubusercontent.com/85620394/162565101-429a93f1-2595-454f-bdb4-f2d8bc8e6659.png)
 
 
