@@ -68,7 +68,7 @@ exports.login = catchAsync(async (req, res, next) => {
     body: {
       token,
       events: (registratedEvent || []).map((event, index) => ({
-        eventId: event._id,
+        eventId: event.eventId,
         qrCode: qrCodes[index],
       })),
     },
