@@ -48,7 +48,10 @@ A cross-platform app where the user and organizers interact with each other. The
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 **<div id="usage">4) USAGE**
  
- We can use eventeria for any type of Event. Whether it's college event, school event, flim festivals and other local level events
+- We can use eventeria for any type of Event. Whether it's college event, school event, flim festivals and other local level events. 
+- We also provide aa template in which you can add events and subevents with sections and short description. 
+- Payment option is available as well as if the event is featured it will show at the top. 
+- There are also verified users/organizers which is been shown by the blue tick beside the profile.
  
 
 
