@@ -29,7 +29,7 @@ ________________________________________________________________________________
  
   **-Flutter :** Flutter is an open-source UI software development kit It is used to develop cross platform applications for Android, iOS, Linux, macOS, Windows, Google Fuchsia, and the web from a single codebase. 
  
-'''
+'''java
   $ sudo snap install flutter
 '''
 
