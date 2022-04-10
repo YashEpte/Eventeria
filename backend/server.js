@@ -23,6 +23,7 @@ app.use(express.urlencoded({ extended: true }));
 app.use('/', require('./routes'));
 
 app.use((err, _, res, next) => {
+  console.log(err);
   res.status(403).send({
     status: 'error',
     error: err.message || 'Something went wrong',

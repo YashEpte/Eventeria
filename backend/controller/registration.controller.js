@@ -29,7 +29,7 @@ exports.registerForEvent = catchAsync(async (req, res) => {
     throw Error('Not engough seats avaiable');
   }
 
-  const qrCode = `00000${currentCount + 1}`.slice(-6);
+  const qrCode = `00000${currentCount + 10}`.slice(-6);
 
   const registration = await RegistrationModel.create({
     userId: user._id,
@@ -40,7 +40,7 @@ exports.registerForEvent = catchAsync(async (req, res) => {
 
   await EventModel.findOneAndUpdate(
     { 'subEvent._id': eventId },
-    { $inc: -ticketCount }
+    { 'subEvent.$.totalSeats': { $inc: -ticketCount } }
   );
 
   const qrUrl = await generateQr({ code: qrCode });
@@ -63,6 +63,7 @@ exports.registerForEvent = catchAsync(async (req, res) => {
 
 exports.verifyRegistrations = catchAsync(async (req, res) => {
   const { qrCodeId } = req.body;
+  console.log(qrCodeId);
   const registration = await RegistrationModel.findOne({
     qrCodeId,
   }).populate('userId');
@@ -73,6 +74,10 @@ exports.verifyRegistrations = catchAsync(async (req, res) => {
   const event = await EventModel.findOne({
     'subEvents._id': `${registration.eventId}`,
   });
+  if (!event) {
+    throw Error('Event not found');
+  }
+
   const subEvent = event.subEvents.find(
     (subEvent) => `${subEvent._id}` === `${registration.eventId}`
   );
