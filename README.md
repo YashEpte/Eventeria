@@ -57,7 +57,8 @@ A cross-platform app where the user and organizers interact with each other. The
 
 
 --------------------------------------------------------------------------------------------------------------------------------------
-**<div id="screenshot">5) SCREENSHOT**
+**<div id="screenshot"><span style='font-size:100px;'>&#128196;
+ 5) SCREENSHOT**</span>
 
 
 
