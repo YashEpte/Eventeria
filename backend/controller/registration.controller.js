@@ -103,8 +103,9 @@ exports.getRegistedEvents = catchAsync(async (req, res) => {
   res.send({
     status: 'success',
     body: {
-      registratedEvent: (registratedEvent || []).map((event, index) => ({
-        eventId: event._id,
+      token: req.headers['authorization'].split('Bearer ')[1],
+      events: (registratedEvent || []).map((event, index) => ({
+        eventId: event.eventId,
         qrCode: qrCodes[index],
       })),
     },
