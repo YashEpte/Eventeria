@@ -5,7 +5,7 @@
 
 _________________________________________________________________________________________________________________________________________________________
 
-**TABLE CONTENT**
+<span style='font-size:100px;'>&#128736;**TABLE CONTENT**</span>
 1) <a href="#idea">THE IDEA</a>
 2) <a href="#installation">INSTALLATION</a>
 3) <a href="#requirements">REQUIRMENTS</a>
@@ -18,13 +18,13 @@ ________________________________________________________________________________
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
-<h4><div id="idea"> 1) THE IDEA</h4> 
+<h4><div id="idea"><span style='font-size:100px;'>&#11088; 1) THE IDEA</span></h4> 
       Everyone attends some or the other kind of events but you have noticed that's its not possible to manage everything, there is always an error and thats where eventeria comes in. It helps you to organize the events and send your attender the needed information in single place. Eventeria gives you the customizable template in which you can add Events, sub-events and sections. It also helps in registration and payment.
       
  A cross-platform app where the user and organizers interact with each other. The organizers can create events,sub-events, it's details and publish it on our app. Users can register itself in the event and a QR will be generated, which can be scanned at the venue and verified by the organizers on the day of event.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
-**<div id="installation">1) INSTALLATION**
+ **<div id="installation"><span style='font-size:100px;'>&#11015;2) INSTALLATION**</span>
  
   **-Flutter :** Flutter is an open-source UI software development kit It is used to develop cross platform applications for Android, iOS, Linux, macOS, Windows, Google Fuchsia, and the web from a single codebase. 
  
@@ -44,7 +44,8 @@ ________________________________________________________________________________
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
-**<div id="requirements">3) REQUIRMENTS**
+**<div id="requirements"><span style='font-size:100px;'>&#9997;
+ 3) REQUIRMENTS**</span>
 
 
 
@@ -67,7 +68,7 @@ ________________________________________________________________________________
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
- **<div id="licence"><span style='font-size:100px;'>&#9989;6) LICENCE**</span>
+ **<div id="licence"><span style='font-size:100px;'>&#10004;6) LICENCE**</span>
  
  This project is licensed under the MIT License - see the <a href="https://github.com/YashEpte/Eventeria/blob/main/LICENSE">LICENSE.md </a> file for details
 
