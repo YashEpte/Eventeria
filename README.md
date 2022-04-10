@@ -46,7 +46,7 @@ A cross-platform app where the user and organizers interact with each other. The
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
-**<div id="usage">4) USAGE**
+ **<div id="usage"><span style='font-size:100px;'>&#9889;4) USAGE**</span>
  
 - We can use eventeria for any type of Event. Whether it's college event, school event, flim festivals and other local level events. 
 - We also provide aa template in which you can add events and subevents with sections and short description. 
