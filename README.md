@@ -19,7 +19,7 @@ ________________________________________________________________________________
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 <h4><div id="idea"><span style='font-size:100px;'>&#11088; 1) THE IDEA</span></h4> 
-      Everyone attends some or the other kind of events but you have noticed that's its not possible to manage everything, there is always an error and thats where eventeria comes in. It helps you to organize the events and send your attender the needed information in single place. Eventeria gives you the customizable template in which you can add Events, sub-events and sections. It also helps in registration and payment.</p>
+      Everyone attends some or the other kind of events but you have noticed that's its not possible to manage everything, there is always an error and thats where eventeria comes in. It helps you to organize the events and send your attender the needed information in single place. Eventeria gives you the customizable template in which you can add Events, sub-events and sections..</p>
       
       
  A cross-platform app where the user and organizers interact with each other. The organizers can create events,sub-events, it's details and publish it on our app. Users can register itself in the event and a QR will be generated, which can be scanned at the venue and verified by the organizers on the day of event.
@@ -55,7 +55,6 @@ ________________________________________________________________________________
  
 - We can use eventeria for any type of Event. Whether it's college event, school event, flim festivals and other local level events. 
 - We also provide aa template in which you can add events and subevents with sections and short description. 
-- Payment option is available as well as if the event is featured it will show at the top. 
 - There are also verified users/organizers which is been shown by the blue tick beside the profile.
  
 
