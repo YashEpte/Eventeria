@@ -9,11 +9,10 @@ ________________________________________________________________________________
 <span style='font-size:100px;'>&#128736;**TABLE CONTENT**</span>
 1) <a href="#idea">THE IDEA</a>
 2) <a href="#installation">INSTALLATION</a>
-3) <a href="#requirements">REQUIRMENTS</a>
-4) <a href="#usage">USAGE</a>
-5) <a href="#screenshot"> SCREENSHOT</a>
-6) <a href="#licence"> LICENCE</a>
-7) <a href="#author"> AUTHORS</a>
+3) <a href="#usage">USAGE</a>
+4) <a href="#screenshot"> SCREENSHOT</a>
+5) <a href="#licence"> LICENCE</a>
+6) <a href="#author"> AUTHORS</a>
 
 __________________________________________________________________________________________________________________________________________________________
 
@@ -44,14 +43,12 @@ ________________________________________________________________________________
   
 
 
--------------------------------------------------------------------------------------------------------------------------------------------------------
-**<div id="requirements"><span style='font-size:100px;'>&#9997;
- 3) REQUIRMENTS**</span>
+
 
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
- **<div id="usage"><span style='font-size:100px;'>&#9889;4) USAGE**</span>
+ **<div id="usage"><span style='font-size:100px;'>&#9889;3) USAGE**</span>
  
 - We can use eventeria for any type of Event. Whether it's college event, school event, flim festivals and other local level events. 
 - We also provide aa template in which you can add events and subevents with sections and short description. 
@@ -63,18 +60,18 @@ ________________________________________________________________________________
 
 --------------------------------------------------------------------------------------------------------------------------------------
 **<div id="screenshot"><span style='font-size:100px;'>&#128196;
- 5) SCREENSHOT**</span>
+ 4) SCREENSHOT**</span>
 
 
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
- **<div id="licence"><span style='font-size:100px;'>&#10004;6) LICENCE**</span>
+ **<div id="licence"><span style='font-size:100px;'>&#10004;5) LICENCE**</span>
  
  This project is licensed under the MIT License - see the <a href="https://github.com/YashEpte/Eventeria/blob/main/LICENSE">LICENSE.md </a> file for details
 
  ---------------------------------------------------------------------------------------------------------------------------------------------------------
- **<div id="author"><span style='font-size:100px;'>&#128187;7) AUTHORS**  </span>
+ **<div id="author"><span style='font-size:100px;'>&#128187;6) AUTHORS**  </span>
 
    <ul>
     <li><a href="https://github.com/Adarsh077">Adarsh Senghani </a></li>
