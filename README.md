@@ -29,7 +29,9 @@ ________________________________________________________________________________
  
   **-Flutter :** Flutter is an open-source UI software development kit It is used to develop cross platform applications for Android, iOS, Linux, macOS, Windows, Google Fuchsia, and the web from a single codebase. 
  
+'''
   $ sudo snap install flutter
+'''
 
   **-Unity :** Unity is a cross-platform game engine developed by Unity Technologies, which is primarily used to develop video games and simulations for computers, consoles and mobile devices.Unity's strong partnerships with the leading mobile platforms – including custom tools for iOS and Android – ensure you have access to cutting-edge solutions that power your success.
  
