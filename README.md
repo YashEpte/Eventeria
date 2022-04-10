@@ -11,7 +11,7 @@ ________________________________________________________________________________
 2) <a href="#installation">INSTALLATION</a>
 3) <a href="#usage">USAGE</a>
 4) <a href="#screenshot"> SCREENSHOT</a>
-5) <a href="#licence"> LICENCE</a>
+5) <a href="#licence"> LICENSE</a>
 6) <a href="#author"> AUTHORS</a>
 
 __________________________________________________________________________________________________________________________________________________________
@@ -77,7 +77,7 @@ ________________________________________________________________________________
     <li><a href="https://github.com/Adarsh077">Adarsh Senghani </a></li>
     <li><a href="https://github.com/KiraKami-dev">Akshat Khair</a></li>
     <li><a href="https://github.com/gatishinde">Gati Shinde</a></li>
-    <li><a href="">Bhavin Divecha</a></li>
+    <li><a href="https://github.com/BlackStoneGameDevelopment">Bhavin Divecha</a></li>
     <li><a href="https://github.com/YashEpte">Yash Epte</a></li>
     
 </ul> 
